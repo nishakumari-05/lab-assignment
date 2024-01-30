@@ -9,6 +9,6 @@ package javaapplication3;
  *
  * @author acer
  */
-public class lab2_q3 {
+public class lab3_q4 {
     
 }
